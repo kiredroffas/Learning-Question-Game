@@ -10,7 +10,7 @@ public class DTree  //Initializes the decision tree
 	
 	public DTree()  //Constructor
 	{
-		database = "/home/erik/Desktop/Erikpa4/CSE 223 PA4 - Question Game/src/20qq.txt"; //Save file path as string
+		database = "/home/erik/Desktop/Learning-Question-Game/src/20qq.txt"; //Save file path as string
 		try 
 		{
 			File file = new File(database);  //Make a new file object with string path

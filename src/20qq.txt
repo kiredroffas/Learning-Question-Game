@@ -2,5 +2,9 @@ Q:
 Is it an animal
 A:
 Pig
+Q:
+Is it a fruit
+A:
+Orange
 A:
 Rock
